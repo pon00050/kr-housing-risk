@@ -66,10 +66,10 @@ no leaked data.
 
 ## Status
 
-**Data collection:** In progress. Full 228-district backfill completing.
+**Dataset complete (2026-03-20).** 222,903 rows covering all 228 시군구 × 5 registration types
+× January 2010 – March 2026. Zero errors. Full 16-year monthly time series at 시군구 granularity.
 
-**First report:** 시군구별 주거신용위험 동향 분석 (2010–2026) — forthcoming once 서울
-coverage is complete.
+**First report:** 시군구별 주거신용위험 동향 분석 (2010–2026) — in preparation.
 
 ---
 
