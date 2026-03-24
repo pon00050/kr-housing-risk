@@ -118,4 +118,4 @@ Monthly PDF report. See `METHODOLOGY.md` for data sourcing details.
 
 ## Status
 
-Data collection in progress. First report forthcoming once 서울 coverage is complete.
+Dataset complete: 223,275 rows covering 228 시군구, January 2010 – March 2026. Updated monthly.
