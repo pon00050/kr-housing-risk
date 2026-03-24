@@ -52,6 +52,25 @@ no leaked data.
 
 ---
 
+## National trend (2010–2026)
+
+![Korea Housing Registration Activity — National Aggregate](reports/charts/national_trend.png)
+
+Top panel: credit activity signals (근저당, 전세권). Bottom panel: distress signals (가압류, 임차권, 강제경매).
+Shaded region marks the 전세사기 crisis window (2022–2024). The 임차권 spike — tenant rights
+registrations as landlords defaulted — is the most concentrated signal in the dataset.
+
+---
+
+## Sample report
+
+→ **[수원시 District Snapshot — March 2026 (PDF)](reports/pdf/snapshot_수원시_2026_03.pdf)**
+
+A 2-page district-level snapshot covering registration trend, distress stage classification,
+and year-on-year comparison. Full institutional reports available upon inquiry.
+
+---
+
 ## Repository contents
 
 | File | Description |
@@ -59,8 +78,8 @@ no leaked data.
 | `PRODUCT_SPEC.md` | Full product specification — what's in the index, who it's for |
 | `METHODOLOGY.md` | Data sourcing and methodology (high-level) |
 | `CROSS_VALIDATION.md` | Framework for validating against external public datasets |
-| `reports/` | Published analysis outputs (when available) |
-| `data/` | Sample data extracts (when available) |
+| `reports/charts/` | Public chart exports |
+| `reports/pdf/` | Sample district reports |
 
 ---
 
@@ -69,7 +88,7 @@ no leaked data.
 **Dataset complete (2026-03-20).** 222,903 rows covering all 228 시군구 × 5 registration types
 × January 2010 – March 2026. Zero errors. Full 16-year monthly time series at 시군구 granularity.
 
-**First report:** 시군구별 주거신용위험 동향 분석 (2010–2026) — in preparation.
+**Full institutional report and dataset access:** available upon inquiry (see Contact below).
 
 ---
 
