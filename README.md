@@ -39,6 +39,24 @@ decisions and what no existing product provides.
 
 ---
 
+## Key findings (2026년 3월 기준)
+
+| 시군구 | 위험 단계 | 추세 |
+|---|---|---|
+| 경기 평택시 | Terminal | ↑ 상승 |
+| 서울 영등포구 | Terminal | ↑ 상승 |
+| 서울 금천구 | Terminal | → 유지 |
+| 경기 광주시 | Terminal | → 유지 |
+| 경기 수원시 | Terminal | ↓ 완화 |
+
+- **임차권→강제경매 전이 시차:** 시군구 중앙값 17개월. 2022–2023년 피해 접수가 강제경매로 전환되는 시점이 2024–2025년 현재 진행 중.
+- **지역 집중도:** 2023년 임차권설정등기명령의 39.5%가 상위 10개 시군구에서 발생 (2010년 30.1%).
+- **위기 분화:** 228개 시군구 중 5개가 최고위험(Terminal) 단계를 유지하는 반면, 다수 지역은 이미 회복 또는 안정 단계.
+
+위험 단계는 5개 등기유형의 표준화 복합지수 기반 분류. 전체 방법론은 [METHODOLOGY.md](METHODOLOGY.md) 참조.
+
+---
+
 ## Data provenance
 
 All data is sourced from **등기정보광장 공식 OpenAPI** (대법원 전자등기소 운영,
