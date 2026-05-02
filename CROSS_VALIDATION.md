@@ -223,8 +223,8 @@ All distress signals rise           ──with──→ Population outflow accel
 
 The consistent pattern: **legal events lead, economic outcomes follow.** Each validation pair
 independently demonstrates this. Taken together, they make the case that the 등기 dataset is
-not just historically interesting but predictively useful — and that is what institutional
-buyers pay for.
+not just historically interesting but predictively useful — and that is what makes the
+dataset analytically valuable.
 
 ---
 
